@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"}],"uuid":"2bca08dd66d245689afc20b90b0ef070","collectionName":"carreras","type":"collection"}
